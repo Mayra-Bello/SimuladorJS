@@ -179,3 +179,24 @@ table, th, td {
     animation-timing-function: ease-in;
     animation-duration: 3s;
 }
+
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+    line-height: 55px;
+    bottom: 30px;
+    background-color: #292b2c;
+}
+
+
+.logoImg img {
+    width: 150px;
+    height: 100px;
+    line-height: 55px;
+    bottom: 30px;
+    background-color: #292b2c;
+}
+.titulo {
+    width: 43%;
+    text-align: center;
+}
