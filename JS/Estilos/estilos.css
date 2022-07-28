@@ -197,9 +197,11 @@ table, th, td {
     background-color: #292b2c;
 }
 .titulo {
-    width: 43%;
-    text-align: center;
-}
+        text-align: center;
+        padding: 20px;
+        background-color: rgba(255, 127, 80, 0.212);
+    }
+
 
 .navbar-toggler-icon {
     background-image: url(
